@@ -1,6 +1,6 @@
 const fs = require('fs');
 const csv = require('csv-parser');
-const csvFilePath = 'data.csv';
+const csvFilePath = 'data.csv';  // Add csv file path here
 
 const jsonData = [];
 
